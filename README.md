@@ -1,4 +1,4 @@
-<h1 align="center"> Aplicação de Cadastro de Usuario</h1>
+<h1 align="center"> Aplicação To-Do List</h1>
 
 ## Sobre
 Crud simples de agendamento de tarefas por usuário.  
