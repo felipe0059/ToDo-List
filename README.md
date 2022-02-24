@@ -2,7 +2,7 @@
 
 ## Sobre
 Crud simples de agendamento de tarefas por usuário.  
-Para obter acesso a documentação da aplicação ( [Clique aqui](https://drive.google.com/file/d/175e_5dCeYXBcHziy7lJD1EOY25Kd1ebE/view?usp=sharing) );
+Para obter acesso a documentação da aplicação ( [Clique aqui](https://drive.google.com/file/d/175e_5dCeYXBcHziy7lJD1EOY25Kd1ebE/view?usp=sharing) );  
 Para visualizar a aplicação em deploy no Heroku [clique aqui](https://todolistfgh.herokuapp.com/swagger-ui.html) ;
 
 **Funcionalidades:**  
